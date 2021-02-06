@@ -1,0 +1,9 @@
+h2{color: black;
+font-size: 50px;}
+ body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background: url(5252.jpg) no-repeat;
+	background-size: cover;
+ }

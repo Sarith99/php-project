@@ -1,0 +1,9 @@
+h1{color: white
+font-size: 50px;}
+ body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background: url(999.jpg) no-repeat;
+	background-size: cover;
+ }

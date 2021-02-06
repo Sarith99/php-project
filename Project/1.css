@@ -1,0 +1,109 @@
+*{margin: 0; padding: 0;}
+
+a {text-decoration: none;}
+
+.clearfix{overflow: auto;}
+
+.wrapper{
+	margin: 0 auto;
+	width: 1000px;
+}
+.top-bar{
+	width: 1000px;
+	background: #555;
+	background: linear-gradient(#333,#444,#333);
+	border-radius: 10px;
+}
+.top-bar-links{
+	float:left;
+
+}
+
+.top-bar-links ul {
+	margin: 15px;
+   list-style: none;
+}
+
+.top-bar-links ul li{
+	padding: 0 10px; 
+	display: inline-block;
+	border-right : 1px solid black;
+
+}
+
+.top-bar-links ul li a {
+	color: #fff;
+	text-transform: uppercase;
+
+}
+
+.top-bar-links ul li a:hover{
+	color: red;
+}
+
+.top-bar-links ul li:last-child{
+	border: 0;
+}
+
+.search-bar{
+	padding:3px 5px 3px 10px;
+	margin: 15px;
+	float: right;
+	background: white;
+	border-radius:10px;
+
+}
+
+.search-bar input {
+ border: 0;
+ float: left;
+}
+
+.search-bar button{
+	width: 18px;
+	height: 18px;
+	background: url(search.png);
+	border: 0;
+	float: right;
+
+}
+
+.logo img {
+	float: left;
+}
+.header-welcome h1{
+	text-align: right;
+	font-variant: small-caps;
+	font-size: 40px;
+}
+
+.intro-para p{
+	font-size: 20px;
+}
+
+.para2{
+	width:970px;
+	margin: 15px;
+}
+
+.para2 .languageimage{
+	width: 400px;
+	height: 300px;
+	float: left;
+}
+
+.para2 h2{
+text-align: left;
+font-size: 22px;
+font-size: 36px;
+}
+
+.para2 p{
+	width: 570px;
+	text-align: left;
+	font-size: 20px;
+	float: left;
+	
+
+}
+
